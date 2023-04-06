@@ -5,13 +5,7 @@
 
 - 🔭 I’m currently working on [Sportsalize](https://github.com/SoulGiannis/find)
 
-- 👯 I’m looking to collaborate on [IMS](https://github.com/SoulGiannis/SoulGiannis.github.io)
-
-- 🤝 I’m looking for help with [Laundry](https://github.com/SoulGiannis/laundry)
-
 - 👨‍💻 All of my projects are available at [https://soulgiannis.github.io/Rishabh/](https://soulgiannis.github.io/Rishabh/)
-
-- 📫 How to reach me **chaudharyrishabh029@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17Lx7kr2BbGoQJPy_ESOTQxi88BK6YPJb/view?usp=share_link](https://drive.google.com/file/d/17Lx7kr2BbGoQJPy_ESOTQxi88BK6YPJb/view?usp=share_link)
 
