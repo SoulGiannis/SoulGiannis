@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soulgiannis&label=Profile%20views&color=0e75b6&style=flat" alt="soulgiannis" /> </p>
 
-- 🔭 I’m currently working on [Sportsalize](https://github.com/SoulGiannis/find)
+- 🔭 I’m currently working on Social media website
 
 - 👨‍💻 All of my projects are available at [https://soulgiannis.github.io/Rishabh/](https://soulgiannis.github.io/Rishabh/)
 
