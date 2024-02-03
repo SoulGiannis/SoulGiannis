@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Social media website
 
-- 👨‍💻 All of my projects are available at [https://soulgiannis.github.io/Rishabh/](https://soulgiannis.github.io/Rishabh/)
+- 👨‍💻 All of my projects are available at [https://chaudharyrishabh.com/](https://chaudharyrishabh.com/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/17Lx7kr2BbGoQJPy_ESOTQxi88BK6YPJb/view?usp=share_link](https://drive.google.com/file/d/17Lx7kr2BbGoQJPy_ESOTQxi88BK6YPJb/view?usp=share_link)
 
